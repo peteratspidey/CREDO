@@ -11,3 +11,8 @@ sudo systemctl enable docker
 ```bash
 docker --version
 ```
+## clone the CREDO GUI repo and enter into CREDOgui directory
+```bash
+git clone https://github.com/alessandriLuca/CREDOgui.git
+cd CREDOgui
+```
